@@ -49,9 +49,9 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Move_Picture2.Properties.Resources.cartoon_monkey_free;
-            this.pictureBox1.Location = new System.Drawing.Point(269, 172);
+            this.pictureBox1.Location = new System.Drawing.Point(343, 172);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(156, 93);
+            this.pictureBox1.Size = new System.Drawing.Size(82, 93);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
